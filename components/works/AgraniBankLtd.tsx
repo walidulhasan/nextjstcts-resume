@@ -14,26 +14,26 @@ const AgraniBankLtd = () => {
       <span className="text-textGreen tracking-wide">@General Banking</span>
     </h3>
     <p className="text-sm mt-1 font-medium text-textDark">
-      Jan 2023 - present
+      Dec 2018 - Nov 2019
     </p>
     <ul className="mt-6 flex flex-col gap-3">
       <li className="text-base flex gap-2 text-textDark">
         <span className="text-textGreen mt-1">
           <TiArrowForward />
         </span>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, qui necessitatibus architecto cumque consequuntur nam expedita perferendis id harum fuga maiores similique culpa! Dolor error, quis corrupti atque minima ab.
+        Deposit Accounts: <br/> Deposit accounts are financial accounts offered by banks and other financial institutions that allow customers to deposit and withdraw money. The most common types of deposit accounts include savings accounts, checking accounts, and certificates of deposit (CDs).
       </li>
       <li className="text-base flex gap-2 text-textDark">
         <span className="text-textGreen mt-1">
           <TiArrowForward />
         </span>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, qui necessitatibus architecto cumque consequuntur.
+        Investment Services: <br/>Banks often offer investment services to customers who want to invest their money in stocks, bonds, mutual funds, and other financial instruments. These services may include financial planning, investment advice, and brokerage services.
       </li>
       <li className="text-base flex gap-2 text-textDark">
         <span className="text-textGreen mt-1">
           <TiArrowForward />
         </span>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nam expedita perferendis id harum fuga maiores similique culpa! Dolor error, quis corrupti atque minima ab.
+        Online Banking: <br/> Online banking allows customers to access their bank accounts and perform banking transactions over the internet. This includes tasks such as checking account balances, transferring money between accounts, and paying bills online.
       </li>
     </ul>
   </motion.div>

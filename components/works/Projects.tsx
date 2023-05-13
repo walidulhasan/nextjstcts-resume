@@ -14,7 +14,7 @@ const Projects = () => {
        <div className="w-full flex flex-col items-center justify-center gap-28 mt-10">
         <div className="flex flex-col xl:flex-row gap-6">
           <a
-            href="https://bdprotechnology.blogspot.com/"
+            href="https://github.com/walidulhasan/netflix-demo-nextjs"
             className="w-full xl:w-1/2 h-auto relative group"
             target="_blank"
           >
@@ -31,13 +31,12 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold">Netflix Clone 2.0</h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
-              <span className="text-textGreen">O-auth</span> and then make the
-              purchage using <span className="text-textGreen">stripe</span>.
+              An Netflix clone website for visualizing personalized Netflix
+              website. {" "}
+             
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>Nextjs</li>
@@ -49,21 +48,21 @@ const Projects = () => {
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/walidulhasan/netflix-demo-nextjs"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/WzMtRfzkP-Q"
+                href="https://www.youtube.com/@bdcoder"
                 target="_blank"
               >
                 <AiOutlineYoutube />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://bdprotechnology.blogspot.com/"
+                href="http://netflix-demo-nextjs.vercel.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
