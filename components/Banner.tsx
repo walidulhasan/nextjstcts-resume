@@ -22,7 +22,7 @@ const Banner = () => {
       >
         Walidulhasan Boniamin.{" "}
         <span className="text-textDark mt-2 lgl:mt-4">
-          I build things for the web.
+        Full Stack Software Developer
         </span>
       </motion.h1>
       <motion.p
@@ -31,11 +31,12 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        I am a web devloper with 3+ years of experience in React. I have a
-        strong foundation in front-end & back-end development and an skilled in
-        creating user-friendly and responsive web applicaions using React and
-        its ecosystem. <br />
-        <a href="https://about.me/walidulhasan" target="_blank">
+        Seasoned, Forward-Looking Software Developer with 3+ years of Background in creating and
+executing innovative software solutions to enhance business productivity. I can utilize my preexisting skills in software development, database management, business intelligence, and
+software quality Assurance and gain experience working as part of a team. I always look forward
+to working on challenging and growth Oriented projects that allow enriching my skills in research
+and software development. <br />
+        <a  target="_blank">
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">
             Learn More
             <span className="absolute w-full h-[1px] bg-textGreen left-0 bottom-1 -translate-x-[110%] group-hover:translate-x-0 transition-transform duration-500"></span>

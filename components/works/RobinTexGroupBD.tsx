@@ -20,19 +20,20 @@ const RobinTexGroupBD = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, qui necessitatibus architecto cumque consequuntur nam expedita perferendis id harum fuga maiores similique culpa! Dolor error, quis corrupti atque minima ab.
+          Garments ERP <br />A Complete ERP solution for garments company with
+          different analytical reports.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, qui necessitatibus architecto cumque consequuntur.
+          Garments HRM System <br />HRM System having employee profile, attendance, leave & salary modules.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nam expedita perferendis id harum fuga maiores similique culpa! Dolor error, quis corrupti atque minima ab.
+          Gate Control System <br/> A system for controlling the products entry & exit for both security & financial aspects.
         </li>
       </ul>
     </motion.div>
