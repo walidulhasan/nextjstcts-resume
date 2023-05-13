@@ -84,7 +84,7 @@ const Navbar = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.1, delay: 0.3 }}
               >
-                <span className="text-textGreen">01.</span>Experience
+                <span className="text-textGreen">02.</span>Experience
               </motion.li>
             </Link>
             <Link
@@ -97,7 +97,7 @@ const Navbar = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.1, delay: 0.4 }}
               >
-                <span className="text-textGreen">04.</span>Project
+                <span className="text-textGreen">03.</span>Project
               </motion.li>
             </Link>
             <Link
