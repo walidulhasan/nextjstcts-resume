@@ -6,6 +6,8 @@ import {
     SlSocialInstagram,
     SlPaypal
 } from "react-icons/sl";
+import { TfiStackOverflow} from "react-icons/tfi";
+import { TbBrandBlogger} from "react-icons/tb";
 
 const LeftSide = () => {
   return (
@@ -40,6 +42,16 @@ const LeftSide = () => {
             <a href="https://paypal.me/walidulhasan?country.x=CY&locale.x=en_US" target="_blank">
                 <span className="w-8 h-8 text-xl bg-hoverColor rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:translate-y-2 transition-all duration-300">
                     <SlPaypal/>
+                </span>
+            </a>
+            <a href="https://stackoverflow.com/users/14439767/walidulhasan-boniamin" target="_blank">
+                <span className="w-8 h-8 text-xl bg-hoverColor rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:translate-y-2 transition-all duration-300">
+                    <TfiStackOverflow/>
+                </span>
+            </a>
+            <a href="https://bdprotechnology.blogspot.com/" target="_blank">
+                <span className="w-8 h-8 text-xl bg-hoverColor rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:translate-y-2 transition-all duration-300">
+                    <TbBrandBlogger/>
                 </span>
             </a>
         </div>
