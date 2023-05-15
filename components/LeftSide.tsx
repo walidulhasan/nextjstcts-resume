@@ -3,7 +3,8 @@ import {
     SlSocialYoutube,
     SlSocialLinkedin,
     SlSocialFacebook,
-    SlSocialInstagram
+    SlSocialInstagram,
+    SlPaypal
 } from "react-icons/sl";
 
 const LeftSide = () => {
@@ -34,6 +35,11 @@ const LeftSide = () => {
             <a href="https://www.instagram.com/walidulhasan/" target="_blank">
                 <span className="w-8 h-8 text-xl bg-hoverColor rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:translate-y-2 transition-all duration-300">
                     <SlSocialInstagram/>
+                </span>
+            </a>
+            <a href="https://paypal.me/walidulhasan?country.x=CY&locale.x=en_US" target="_blank">
+                <span className="w-8 h-8 text-xl bg-hoverColor rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:translate-y-2 transition-all duration-300">
+                    <SlPaypal/>
                 </span>
             </a>
         </div>
